@@ -1,0 +1,18 @@
+#container {
+    text-align: center;
+    background-color: ;
+}
+
+#resultScore {
+    margin-top: 20px;
+}
+
+#round-result,
+#score,
+#game-winner {
+    font-size: 18px;
+    margin: 10px 0;
+}
+h1 {
+    text-align: center;
+}
